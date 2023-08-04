@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/Greenroom-Robotics/canary/compare/v1.0.1...1.1.0-amd64) (2023-08-04)
+
+
+### Features
+
+* Upgrade to ROS Iron release [sc-9771] ([99478ee](https://github.com/Greenroom-Robotics/canary/commit/99478ee6fc04329b84dfccb5376e4bbae22efed7))
+
 ## [1.0.1](https://github.com/Greenroom-Robotics/canary/compare/v1.0.0...v1.0.1) (2022-12-27)
 
 
